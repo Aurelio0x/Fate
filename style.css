@@ -1,0 +1,24 @@
+body { 
+  background-color: rgb(255,0,100) ;
+  font-size:2em;
+  font-family:Comic Sans MS;
+  color: rgb(255,255,255)
+}
+
+div {
+  display: block;
+  background-color: rgb(255,255,255) ;
+  padding:20px ;
+  margin: 20px ;
+  color: rgb(255,0,100)
+}
+
+img {
+  width: 20%
+    backgroundcolor: black;
+  padding: 0;
+    
+.images{
+backgroundcolor:black
+  padding:0
+  }
